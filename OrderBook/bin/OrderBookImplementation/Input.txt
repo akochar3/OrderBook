@@ -1,0 +1,6 @@
+Message NewOrderTrans Side=BUY,Quantity=400,Price=50
+Message NewOrderTrans Side=BUY,Quantity=300,Price=50
+Message NewOrderTrans Side=SELL,Quantity=400,Price=55
+Message NewOrderTrans Side=BUY,Quantity=100,Price=51
+Message NewOrderTrans Side=SELL,Quantity=200,Price=56
+Message AmendOrderTrans OrderID=1,Quantity=600,Price=50
